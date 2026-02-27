@@ -76,7 +76,7 @@ The system uses **Local Database (LocalDB)** which:
 ### **First-Time Login:**
 ```
 Username: admin
-Password: admin123
+Password: admin
 ```
 *Change password immediately after first login*
 
@@ -335,5 +335,6 @@ Hours: 9 AM - 5 PM (Egypt Time)
 **Version: 1.5.0 | Release Date: 2025 | Developer: Amr Sallam**
 
 ---
+
 
 **🎯 Ready to Use - Simple Setup - No Technical Skills Needed**
